@@ -1,7 +1,7 @@
 <!-- ########## HELLO ########## -->
 <div align="center">
   <!--Hello, I'm Amanda!-->
-  <img src="https://user-images.githubusercontent.com/63020408/175191508-2287367e-250a-4a89-ae4e-1cacd61eeb91.png" width="95%" />
+  
   <!--gif pixel art-->
   <img src="https://user-images.githubusercontent.com/63020408/175191020-0e6a11ef-fcf1-40a4-b6e4-8b2a9f882cda.gif" width="95%" />
 </div>
