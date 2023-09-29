@@ -10,8 +10,11 @@
  ✨ Ciencia da computação 
  ✨ Full stack developer
 
-
-
+ <a href="https://www.linkedin.com/in/amanda-bispo-3a012020b/" rel="nofollow">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=50>
+ </a> &nbsp;&nbsp;
+ 
+</div>
 
 
 
@@ -25,11 +28,4 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-</div>
 
-
- <a href="https://www.linkedin.com/in/amanda-bispo-3a012020b/" rel="nofollow">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=50>
- </a> &nbsp;&nbsp;
- 
-</div>
