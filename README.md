@@ -16,11 +16,6 @@
 </div>
 
 
-<!-- ########## CONTACT ########## -->
-<div align="center">
- <!--Contact Me-->
-
-
  <a href="https://www.linkedin.com/in/amanda-bispo-3a012020b/" rel="nofollow">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=50>
  </a> &nbsp;&nbsp;
