@@ -1,15 +1,13 @@
 <!-- ########## HELLO ########## -->
 <div align="center">
   <!--Hello, I'm Amanda!-->
-  
-  <!--gif pixel art-->
   <img src="https://user-images.githubusercontent.com/63020408/175191020-0e6a11ef-fcf1-40a4-b6e4-8b2a9f882cda.gif" width="95%" />
 </div>
 
-<div align="center">  <br/><br/>
+<div align="center">  
 
 
- ✨ Ciencia da computação <br/>
+ ✨ Ciencia da computação 
  ✨ Full stack developer
 
 
