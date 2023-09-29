@@ -9,8 +9,8 @@
 <div align="center">  <br/><br/>
 
 
-  ✨ Ciencia da computação <br/>
-  ✨ Full stack developer
+✨ Ciencia da computação <br/>
+✨ Full stack developer
 
 
 </div>
