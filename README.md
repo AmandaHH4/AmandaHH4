@@ -1,16 +1,41 @@
-### Hi there 👋
+<!-- ########## HELLO ########## -->
+<div align="center">
+  <!--Hello, I'm Amanda!-->
+  <img src="https://user-images.githubusercontent.com/63020408/175191508-2287367e-250a-4a89-ae4e-1cacd61eeb91.png" width="95%" />
+  <!--gif pixel art-->
+  <img src="https://user-images.githubusercontent.com/63020408/175191020-0e6a11ef-fcf1-40a4-b6e4-8b2a9f882cda.gif" width="95%" />
+</div>
 
-<!--
-**AmandaHH4/AmandaHH4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">  <br/><br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ✨ Ciencia da computação <br/>
+  ✨ Full stack developer
+
+
+</div>
+
+
+<!-- ########## CONTACT ########## -->
+<div align="center">
+ <!--Contact Me-->
+ <img src="https://user-images.githubusercontent.com/63020408/175192014-8c5e9013-cc32-4e26-a9c6-6caacbc80890.png" width=80% /><br><br>
+
+ <a href="https://www.linkedin.com/in/amanda-bispo-3a012020b/" rel="nofollow">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=50>
+ </a> &nbsp;&nbsp;
+ 
+</div>
+
+<hr>
+
+
+## My Skills
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
