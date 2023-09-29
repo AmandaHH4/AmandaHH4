@@ -19,7 +19,7 @@
 <!-- ########## CONTACT ########## -->
 <div align="center">
  <!--Contact Me-->
- <img src="https://user-images.githubusercontent.com/63020408/175192014-8c5e9013-cc32-4e26-a9c6-6caacbc80890.png" width=80% /><br><br>
+
 
  <a href="https://www.linkedin.com/in/amanda-bispo-3a012020b/" rel="nofollow">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=50>
